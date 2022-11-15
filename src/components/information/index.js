@@ -11,7 +11,7 @@ export default function Index(props) {
             <div className={infoStyle.infoMa}>
                 <div className={infoStyle.prokIm}>
                     <div className={infoStyle.imgi}>
-                        <img src={profileMan} alt='Profile' />
+                        <img src={profileMan} alt='Profile' width="100%" />
                     </div>
                     <div className={infoStyle.greenDot}></div>
                 </div>
